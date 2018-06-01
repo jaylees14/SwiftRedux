@@ -1,3 +1,10 @@
+//
+//  Store.swift
+//  SwiftRedux
+//
+//  Created by Jay Lees on 01/06/2018.
+//
+
 import Foundation
 
 public class Store<S, A> {
