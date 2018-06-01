@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftRedux",
+        "repositoryURL": "https://github.com/jaylees14/SwiftRedux",
+        "state": {
+          "branch": null,
+          "revision": "266076f836ef7dcbc50055d2f0bb34e1e96f3f90",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
